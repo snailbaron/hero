@@ -1,0 +1,6 @@
+/Debug
+*.sdf
+*.suo
+/Hero/Debug
+/SDL2-2.0.3
+/SDL2_image-2.0.0
