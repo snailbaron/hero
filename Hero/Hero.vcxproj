@@ -87,6 +87,7 @@
     <ClCompile Include="window.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="animation.hpp" />
     <ClInclude Include="exception.hpp" />
     <ClInclude Include="exceptions.hpp" />
     <ClInclude Include="gfx.hpp" />
